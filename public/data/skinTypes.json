@@ -1,0 +1,296 @@
+[
+  {
+    "id": "oily",
+    "name": "Oily Skin",
+    "description": "Produces excess sebum, often shiny and prone to enlarged pores and breakouts.",
+    "signs": [
+      "Shiny complexion",
+      "Frequent breakouts",
+      "Enlarged pores",
+      "Makeup wears off quickly"
+    ],
+    "concerns": [
+      "Acne",
+      "Blackheads",
+      "Clogged pores"
+    ],
+    "recommendedIngredients": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Clay (Kaolin, Bentonite)",
+      "Zinc",
+      "Tea Tree Oil"
+    ],
+    "lifestyleTips": [
+      "Avoid heavy, greasy moisturizers.",
+      "Wash face twice daily with a gentle foaming cleanser.",
+      "Use oil-free, non-comedogenic products.",
+      "Avoid over-exfoliating to prevent rebound oiliness."
+    ],
+    "routine": {
+      "morning": [
+        "Gentle foaming cleanser",
+        "Niacinamide serum",
+        "Oil-free moisturizer",
+        "Broad-spectrum SPF 50"
+      ],
+      "night": [
+        "Salicylic acid cleanser",
+        "Lightweight hydrating gel",
+        "Clay mask 2x a week"
+      ]
+    }
+  },
+  {
+    "id": "dry",
+    "name": "Dry Skin",
+    "description": "Lacks natural oils, feels tight, rough, and may flake.",
+    "signs": [
+      "Flakiness",
+      "Tightness after cleansing",
+      "Dull appearance",
+      "Fine lines more visible"
+    ],
+    "concerns": [
+      "Premature aging",
+      "Redness",
+      "Irritation"
+    ],
+    "recommendedIngredients": [
+      "Hyaluronic Acid",
+      "Ceramides",
+      "Glycerin",
+      "Shea Butter",
+      "Squalane"
+    ],
+    "lifestyleTips": [
+      "Avoid hot showers which strip oils.",
+      "Use a humidifier in dry climates.",
+      "Apply moisturizer on damp skin.",
+      "Stay hydrated with plenty of water."
+    ],
+    "routine": {
+      "morning": [
+        "Hydrating cream cleanser",
+        "Hyaluronic acid serum",
+        "Ceramide moisturizer",
+        "SPF 30+ with moisturizing base"
+      ],
+      "night": [
+        "Gentle hydrating cleanser",
+        "Rich night cream with shea butter",
+        "Optional overnight hydrating mask"
+      ]
+    }
+  },
+  {
+    "id": "combination",
+    "name": "Combination Skin",
+    "description": "Oily in the T-zone (forehead, nose, chin) but dry/normal on cheeks.",
+    "signs": [
+      "Shiny T-zone",
+      "Dry cheeks",
+      "Occasional breakouts",
+      "Pores visible only in some areas"
+    ],
+    "concerns": [
+      "Uneven texture",
+      "Localized dryness",
+      "Acne in oily zones"
+    ],
+    "recommendedIngredients": [
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Green Tea Extract",
+      "Aloe Vera",
+      "Lightweight Gel Moisturizers"
+    ],
+    "lifestyleTips": [
+      "Spot-treat different areas with specific products.",
+      "Avoid over-drying the T-zone.",
+      "Exfoliate gently once a week.",
+      "Balance hydration across face."
+    ],
+    "routine": {
+      "morning": [
+        "Gentle gel cleanser",
+        "Niacinamide serum",
+        "Lightweight moisturizer",
+        "SPF 50 sunscreen"
+      ],
+      "night": [
+        "Foam cleanser for T-zone, cream cleanser for cheeks",
+        "Balancing toner",
+        "Hyaluronic acid serum",
+        "Gel-based moisturizer"
+      ]
+    }
+  },
+  {
+    "id": "sensitive",
+    "name": "Sensitive Skin",
+    "description": "Easily irritated, prone to redness, stinging, or allergic reactions.",
+    "signs": [
+      "Redness after products",
+      "Burning sensation",
+      "Frequent irritation",
+      "Thin-looking skin"
+    ],
+    "concerns": [
+      "Rosacea",
+      "Allergic reactions",
+      "Eczema"
+    ],
+    "recommendedIngredients": [
+      "Aloe Vera",
+      "Centella Asiatica",
+      "Chamomile",
+      "Oat Extract",
+      "Ceramides"
+    ],
+    "lifestyleTips": [
+      "Patch-test every new product.",
+      "Avoid strong fragrances and alcohol-based products.",
+      "Use lukewarm water instead of hot.",
+      "Protect skin barrier with moisturizers."
+    ],
+    "routine": {
+      "morning": [
+        "Gentle fragrance-free cleanser",
+        "Soothing toner with oat extract",
+        "Ceramide moisturizer",
+        "Mineral sunscreen (zinc oxide)"
+      ],
+      "night": [
+        "Mild cream cleanser",
+        "Centella serum",
+        "Barrier-repair cream"
+      ]
+    }
+  },
+  {
+    "id": "normal",
+    "name": "Normal Skin",
+    "description": "Well-balanced skin, not too oily or dry, minimal imperfections.",
+    "signs": [
+      "Even tone",
+      "Few blemishes",
+      "Soft texture",
+      "Small pores"
+    ],
+    "concerns": [
+      "Occasional dryness",
+      "Mild breakouts"
+    ],
+    "recommendedIngredients": [
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Peptides",
+      "Squalane",
+      "Green Tea"
+    ],
+    "lifestyleTips": [
+      "Maintain balanced routine.",
+      "Always wear sunscreen.",
+      "Use antioxidants to prevent aging.",
+      "Keep skin hydrated."
+    ],
+    "routine": {
+      "morning": [
+        "Gentle cleanser",
+        "Vitamin C serum",
+        "Moisturizer",
+        "SPF 30+"
+      ],
+      "night": [
+        "Cleanser",
+        "Peptide serum",
+        "Hydrating moisturizer"
+      ]
+    }
+  },
+  {
+    "id": "acne-prone",
+    "name": "Acne-Prone Skin",
+    "description": "Clogged pores and inflammation often lead to frequent pimples.",
+    "signs": [
+      "Frequent whiteheads and blackheads",
+      "Red, inflamed bumps",
+      "Oily patches",
+      "Post-acne marks"
+    ],
+    "concerns": [
+      "Acne scars",
+      "Excess sebum",
+      "Inflammation"
+    ],
+    "recommendedIngredients": [
+      "Benzoyl Peroxide",
+      "Salicylic Acid",
+      "Azelaic Acid",
+      "Niacinamide",
+      "Tea Tree Oil"
+    ],
+    "lifestyleTips": [
+      "Avoid touching face frequently.",
+      "Change pillowcases regularly.",
+      "Avoid harsh scrubs that irritate skin.",
+      "Stick to lightweight, non-comedogenic products."
+    ],
+    "routine": {
+      "morning": [
+        "Salicylic acid cleanser",
+        "Lightweight moisturizer",
+        "Niacinamide serum",
+        "SPF 50 (oil-free)"
+      ],
+      "night": [
+        "Foaming acne cleanser",
+        "Azelaic acid or benzoyl peroxide treatment",
+        "Gel-based moisturizer"
+      ]
+    }
+  },
+  {
+    "id": "mature",
+    "name": "Mature / Aging Skin",
+    "description": "Skin shows signs of aging like wrinkles, fine lines, and loss of elasticity.",
+    "signs": [
+      "Fine lines around eyes and mouth",
+      "Loss of firmness",
+      "Uneven tone",
+      "Dullness"
+    ],
+    "concerns": [
+      "Wrinkles",
+      "Hyperpigmentation",
+      "Sagging"
+    ],
+    "recommendedIngredients": [
+      "Retinol",
+      "Peptides",
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Coenzyme Q10"
+    ],
+    "lifestyleTips": [
+      "Apply sunscreen daily.",
+      "Avoid smoking and alcohol.",
+      "Incorporate antioxidant-rich diet.",
+      "Use gentle exfoliation for cell turnover."
+    ],
+    "routine": {
+      "morning": [
+        "Gentle antioxidant cleanser",
+        "Vitamin C serum",
+        "Peptide moisturizer",
+        "SPF 50 broad spectrum"
+      ],
+      "night": [
+        "Hydrating cleanser",
+        "Retinol serum (start slow)",
+        "Peptide cream"
+      ]
+    }
+  }
+]

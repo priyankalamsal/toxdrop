@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "toxdrop-next",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
